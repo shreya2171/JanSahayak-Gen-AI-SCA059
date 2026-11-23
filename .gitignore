@@ -1,0 +1,22 @@
+# secrets
+.env
+backend/.env
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# runtime data
+data/jansahayak.db
+data/uploads/
+data/chroma/
+# node
+frontend/node_modules/
+frontend/dist/
+# editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+# build helpers
+_build/
